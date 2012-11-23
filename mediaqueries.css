@@ -1,0 +1,191 @@
+
+@media only screen and (max-width: 500px){
+	#navlinks{
+		margin: 0;
+		padding: 0;
+	}
+	#navlinks li{
+		display: block;
+		border-right:none;
+		border-bottom: 1px dotted #FFFFFF;
+		padding-bottom: 5px;
+		padding-top: 5px;
+		margin: none;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#navlinks .page-item-524{
+	width: 100%;
+	}
+	#branding{
+		width: 100%;
+	}
+	#navigation table{
+		width: 100% !important;
+	}
+	#container{
+		width: 100%;
+	}
+	#content{
+		width: 100%;
+	}
+	#contentLeft{
+		width: 88%;
+	}
+	#sidebar{
+		float: none;
+		margin: auto;
+		border-left: none;
+	}
+	#socialMedia{
+		display: none;
+	}
+	#header{
+		background-size: 100%;
+		background-position: center;
+		width: 100%;
+	}
+	#logo img{
+		width: 89px;
+		display: none;
+		
+	}
+	#logo{
+		padding: 13px 0 0 17px;
+	}
+	#post-524{
+ 		padding-left: 0px;
+    	width: 90%;
+    	padding-top: 35px;
+	}
+	#post-524 p{
+		font-size: 18px;
+	}
+	#post-524 span{
+		font-size: 12px;
+	}
+	#post-524 .imgfr img{
+		width: 70px;
+		height: 85px;
+
+	}
+	#footer{
+		width: 98%;
+		height: 60px;
+	}
+	#contentLeft table{
+		width: 100%;
+	}
+	#contentLeft{
+		padding-left: 20px;
+	}
+	.banner{
+		width: 100%;
+	}
+	.guarantee img{
+		width: 120px;
+		height: 115px;
+	}
+	.guarantee{
+		width: 120px;
+	}
+	.jonsinger img{
+		width: 120px;
+		height: 155px;
+
+	}
+	.jonsinger{
+		width: 130px;
+	}
+	#contentLeft p{
+		text-align: justify;
+	}
+	#contentLeft li{
+		text-align: justify;
+	}
+	.textBlock{
+		text-align: justify;
+		width: 95%;
+	}
+	.quoteBlock{
+		margin-right: 1px;
+		width: 95%;
+	}
+	.quoteBlockWide{
+		width: 90%;
+	}
+	#contentLeft .quoteTextCite{
+		text-align: left !important;
+	}
+	#formBuilderContact #fieldformBuilderFieldComments{
+		width: 88%;
+	}
+	#navlinks .page-item-8, #navlinks .page-item-10, #navlinks .page-item-12, #navlinks .page-item-14{
+		display: none;
+	}
+}
+@media only screen and (max-width: 480px){
+	#header{
+		height: 100px;
+	}
+}
+@media only screen and (max-width: 340px){
+	#header{
+		height: 70px;
+	}
+}
+@media only screen and (max-width: 240px){
+	#header{
+		height: 50px;
+	}
+}
+@media only screen and (max-width: 770px) and (min-width: 501px){
+	#container{
+		width: 100%;
+	}
+	#socialMedia{
+		display: none;
+	}
+	#branding{
+		width: 100%;
+	}
+	#content{
+		width: 100%;
+	}
+	#navigation table{
+		width: 100% !important;
+	}
+	#contentLeft{
+		width: 500px;
+	}
+	#content{
+		background: url("http://www.techriver.net/wp-content/themes/TechRiver/images/contentBackground_nosidebar.png");
+	}
+	#contentLeft table{
+		width: 100%;
+	}
+	.textBlock{
+		width: 100%;
+	}
+	.quoteBlock{
+		margin-right: 1px;
+		width: 100%;
+	}
+	.quoteBlockWide{
+		width: 100%;
+	}
+	.banner{
+		width: 100%;
+	}
+	#footer{
+		width: 100%;
+	}
+	#header{
+		background-size: 100%;
+		width: 100%;
+	}
+	#header #logo img{
+		width: 200px;
+		height: 100px;
+	}
+}
